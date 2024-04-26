@@ -1,9 +1,9 @@
 # W3schools_SQL
 
-## ERQ
+## ERD Schema
 
 ![Image Alt Text](ERQ_Images/ERQ.png)
 
-## SQL
+## SQL Script
 
 ![Image Alt Text](SQL_Screenshots/Highest_sales.png)
